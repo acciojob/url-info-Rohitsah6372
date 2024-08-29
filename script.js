@@ -1,1 +1,1 @@
-//your JS code here. If required.
+console.log(window.location.href.length());
